@@ -1,5 +1,5 @@
 ---
-title: "Don't sugar coat me."
+title: "Don't sugarcoat me."
 publishDate: "30 October 2023"
 description: "An example post for Astro Cactus, detailing how to add a custom social image card in the frontmatter"
 tags: ["example", "blog", "image"]
