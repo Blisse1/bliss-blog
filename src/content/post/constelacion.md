@@ -1,6 +1,6 @@
 ---
 title: "Si pudiera ser una constelación"
-description: "Bliss' casual poetry"
+description: "Bliss casual poetry"
 publishDate: "30 October 2023"
 tags: ["poetry"]
 ---
