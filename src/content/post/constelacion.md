@@ -3,7 +3,6 @@ title: "Si pudiera ser una constelación"
 description: "This post is for testing the draft post functionality"
 publishDate: "30 October 2023"
 tags: ["poetry"]
-draft: true
 ---
 
 ## Constellation
