@@ -2,10 +2,10 @@
 title: "Attention!"
 description: "Bliss' beautiful memories"
 publishDate: "04 November 2023"
+tags: ["k-pop"]
 coverImage:
     src: "./attention.jpg"
     alt: "New Jeans' Attention song"
-tags: ["k-pop"]
 ogImage: "/social-card.png"
 ---
 
