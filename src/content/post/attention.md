@@ -6,6 +6,7 @@ tags: ["kpop"]
 ogImage: "/attention.png"
 coverImage: 
     src: "./attention.jpg"
+    alt: "NewJeans photo cover"
 ---
 
 ## Attention
