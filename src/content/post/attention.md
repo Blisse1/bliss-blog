@@ -2,7 +2,7 @@
 title: "Attention!"
 publishDate: "04 November 2023"
 description: "Bliss beautiful memories"
-tags: ["example", "blog", "image"]
+tags: ["kpop"]
 ogImage: "/social-card.png"
 ---
 
