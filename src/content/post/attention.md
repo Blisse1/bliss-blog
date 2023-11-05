@@ -1,6 +1,6 @@
 ---
 title: "Attention!"
-description: "Bliss casual poetry"
+description: "Bliss' beautiful memories"
 publishDate: "04 November 2023"
 coverImage:
     src: "./attention.jpg"
