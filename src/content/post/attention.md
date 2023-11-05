@@ -3,7 +3,7 @@ title: "Attention!"
 publishDate: "04 November 2023"
 description: "Bliss beautiful memories"
 tags: ["kpop"]
-ogImage: "/social-card.png"
+ogImage: "/attention.jpg"
 ---
 
 ## Attention
