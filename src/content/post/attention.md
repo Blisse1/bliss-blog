@@ -4,6 +4,7 @@ publishDate: "04 November 2023"
 description: "Bliss beautiful memories"
 tags: ["kpop"]
 ogImage: "/attention.png"
+coverImage: "./attention.png"
 ---
 
 ## Attention
