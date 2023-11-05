@@ -6,7 +6,7 @@ coverImage:
     src: "./attention.jpg"
     alt: "New Jeans' Attention song"
 tags: ["k-pop"]
-ogImage: "./attention.jpg"
+ogImage: "/attention.jpg"
 ---
 
 ## Attention
