@@ -9,12 +9,15 @@ tags: ["k-pop"]
 ---
 
 ## Attention
+
+<a href="https://www.youtube.com/watch?v=js1CtxSY38I&pp=ygUSbmV3amVhbnMgYXR0ZW50aW9u" target="_blank">New Jeans - Attention</a>
+
 Recuerdo la primera vez que escuché Attention de NewJeans. Estaba surfeando la web
 como tantas veces y como también en ése momento. 
 
-Recuerdo también que siempre venía con la frase de dejarme sorprender, que uno debía darle oportunidad 
-a cosas nuevas. Es el hábito pequeño que tengo que me ayuda a vivir desacostumbrado y a tratar siempre
-de no quedarme solamente con lo que conozco.
+>Recuerdo también que siempre venía con la frase de dejarme sorprender, que uno debía darle oportunidad 
+>a cosas nuevas. Es el hábito pequeño que tengo que me ayuda a vivir desacostumbrado y a tratar siempre
+>de no quedarme solamente con lo que conozco.
 
 Pues bien, siguiendo con la narrativa, me aparece esa canción como recomendada, supuestamente
 de un grupo nuevo(k-pop). Y siguiendo con la frase del segundo párrafo, sencillamente le doy una oportunidad.
