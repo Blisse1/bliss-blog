@@ -7,7 +7,7 @@ tags: ["insights"]
 
 ## Insight I
 
-Podría estar haciendo otra cosa,
-pero quiero hacer esto.
-Por qué es tan difícil entenderlo,
-incluso para mí?
+Podría estar haciendo otra cosa, <br />
+pero quiero hacer esto. <br />
+Por qué es tan difícil entenderlo, <br />
+incluso para mí? <br />
