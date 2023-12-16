@@ -11,7 +11,9 @@ coverImage:
 
 ## Attention
 
-<em>Puedes escuchar aquí la canción relacionada al post: </em>
+Recuerdo la primera vez que escuché Attention de NewJeans.
+
+Estaba surfeando la web como tantas veces y como también en ése momento. 
 
 <iframe 
     width="560" 
@@ -21,9 +23,6 @@ coverImage:
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
 </iframe>
-
-Recuerdo la primera vez que escuché Attention de NewJeans. Estaba surfeando la web
-como tantas veces y como también en ése momento. 
 
 >Recuerdo también que siempre venía con la frase de dejarme sorprender, que uno debía darle oportunidad 
 >a cosas nuevas. Es el hábito pequeño que tengo que me ayuda a vivir desacostumbrado y a tratar siempre
