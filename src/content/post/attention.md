@@ -41,5 +41,5 @@ que éste tema me genera. Fue fabuloso y ayudó a formar uno de mis sueños.
 No he vivido mucho ni compartido con personas nuevas los últimos años, lo admito. Por eso mismo, éstas memorias son para mí
 valiosas y preciadas. 
 
-Yo también tengo derecho a tener mis propias memorias.
+Yo también tengo derecho a tenerlas.
 
