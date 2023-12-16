@@ -11,7 +11,7 @@ coverImage:
 
 ## Attention
 
-Puedes escuchar aquí la canción;
+<em>Puedes escuchar aquí la canción relacionada al post: </em>
 
 <iframe 
     width="560" 
