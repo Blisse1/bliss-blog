@@ -11,7 +11,16 @@ coverImage:
 
 ## Attention
 
-<a href="https://www.youtube.com/watch?v=js1CtxSY38I&pp=ygUSbmV3amVhbnMgYXR0ZW50aW9u" target="_blank">New Jeans - Attention</a>
+Puedes escuchar aquí la canción;
+
+<iframe 
+    width="560" 
+    height="315" 
+    src="https://www.youtube.com/embed/js1CtxSY38I?si=TjgrWvxUCGUfnwk1" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+</iframe>
 
 Recuerdo la primera vez que escuché Attention de NewJeans. Estaba surfeando la web
 como tantas veces y como también en ése momento. 
