@@ -34,8 +34,6 @@ Era sencillo pero como no estoy acostumbrado a hacer ejercicios así pues cuesta
 Pero no pasa nada, quiero que esto sea long-term, así que no me preocupo por el tiempo que pase
 en un problema desde que esté en la mentalidad de aprender del mismo y de dejar el ego a un lado cuando no esté bien.
 
-Lo hago porque quiero mejorar.
-
 >> If your goal is long-term improvement, you shouldn't care too much about your speed on problems.
 
 
