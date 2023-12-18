@@ -5,8 +5,6 @@ description: "Some mistakes to take into account while solving problems"
 tags: ["mistake"]
 ---
 
-## Mistake I
-
 ## Problem statement:
 
 Often, the freelancer's clients hire them for projects spanning over multiple 
