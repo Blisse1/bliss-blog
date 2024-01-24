@@ -17,3 +17,5 @@ Terminé los retos de la unidad de ayer que era acerca de CSS values and units.
 Alcancé también a terminar el artículo corto que le seguía que era acerca de sizing items in CSS,
 me queda hacer los retos de ése módulo. Entendí con ejemplos la unidad de medida tipo **vw** y **vh**
 _que literalmente se calcula de acuerdo a las dimensiones del viewport y representa el 1% del mismo_.
+
+Leí acerca de un nuevo concepto llamado borrow checker, y definitivamente tengo que volverlo a leer.
