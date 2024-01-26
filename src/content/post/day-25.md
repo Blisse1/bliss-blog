@@ -1,13 +1,11 @@
 ---
-title: "Dia 25"
+title: "Day 25"
 description: "100-days-of-code"
 publishDate: "24 January 2024"
 tags: ["100-days-of-code"]
 ---
 
 ## Day 25 of #100-days-of-code
-
-Día 25 de 100 day of code
 
 Nota: vim.keymap.set({"n", "v"}, "<leader>y", [["+y]]) asociar de alguna manera el anterior remap a unas 80 palabras por línea. O buscar cómo modificar al documento entero a 80 por línea. _pendiente_
 
