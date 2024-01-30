@@ -1,5 +1,5 @@
 ---
-title: "Organizing your CSS, day 30"
+title: "Organizing your CSS and Rust, day 30"
 description: "100-days-of-code"
 publishDate: "29 January 2024"
 tags: ["100-days-of-code"]
