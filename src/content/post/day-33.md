@@ -1,7 +1,7 @@
 ---
 title: "Second CSS project"
 description: "100-days-of-code"
-publishDate: "29 January 2024"
+publishDate: "01 February 2024"
 tags: ["100-days-of-code"]
 ---
 
