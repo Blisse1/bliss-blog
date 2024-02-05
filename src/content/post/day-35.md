@@ -1,7 +1,7 @@
 ---
 title: "Styling text, CSS"
 description: "100-days-of-code"
-publishDate: "04 January 2024"
+publishDate: "03 February 2024"
 tags: ["100-days-of-code"]
 ---
 
