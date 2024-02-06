@@ -1,7 +1,7 @@
 ---
 title: "Lenguajes consejo"
-publishDate: "06 February 2023"
-description: "An advice that I heard today."
+publishDate: "06 February 2024"
+description: "An advice that I heard today"
 tags: ["coding-advices"]
 ---
 
