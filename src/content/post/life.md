@@ -3,10 +3,6 @@ title: "So life goes on"
 publishDate: "08 February 2024"
 description: "Some lyrics I like"
 tags: ["lyrics"]
-ogImage: "/life-goes-on.png"
-coverImage: 
-    src: "./life-goes-on.png"
-    alt: "life goes on cover"
 ---
 
 ## Canción y reflexión
@@ -27,11 +23,15 @@ de saber qué quería decir y quedé fascinado con la traducción.
 Muchas veces es complicado encontrar una traducción que se asemeje a la letra
 como yo la interpreto y esta vez fue la excepción. 
 
-También el cover que ven de portada siento que transmite por sí solo.
+También el cover que encontrarán aquí abajo siento que transmite por sí solo.
 
 Da cuenta el paso de una generación a otra, ¿no les parece?
 
-## 허회경 (Heo Hoy Kyung) - 그렇게 살아가는 것 (So life goes on)
+<img src="life-goes-on.png"> 
+
+>> 허회경 (Heo Hoy Kyung) - 그렇게 살아가는 것 (So life goes on)
+
+## Lyrics
 
 Spitting out thorn-like words <br>
 가시 같은 말을 내뱉고
