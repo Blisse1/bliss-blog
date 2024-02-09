@@ -29,9 +29,9 @@ Da cuenta el paso de una generación a otra, ¿no les parece?
 
 ![Alt text](https://m.media-amazon.com/images/I/512zAzOG46L._UX250_FMwebp_QL85_.jpg)
 
-## 허회경 (Heo Hoy Kyung) - 그렇게 살아가는 것 (So life goes on)
+>> 허회경 (Heo Hoy Kyung) - 그렇게 살아가는 것 (So life goes on)
 
->> Lyrics
+## Lyrics
 
 Spitting out thorn-like words <br>
 가시 같은 말을 내뱉고
