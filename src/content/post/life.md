@@ -29,23 +29,23 @@ Da cuenta el paso de una generación a otra, ¿no les parece?
 
 ## 허회경 (Heo Hoy Kyung) - 그렇게 살아가는 것 (So life goes on)
 
-Spitting out thorn-like words
+Spitting out thorn-like words <br>
 가시 같은 말을 내뱉고
 
-I blame life like the weather
+I blame life like the weather <br>
 날씨 같은 인생을 탓하고
 
-Saying words like love again
+Saying words like love again <br>
 또 사랑 같은 말을 다시 내뱉는 것
-I spit out words like love
+I spit out words like love <br>
 사랑 같은 말은 내뱉고
 
-Laughing at small things
+Laughing at small things <br>
 작은 일에 웃음 지어놓고선
 
-Saying hurtful words again
+Saying hurtful words again <br>
 또 상처 같은 말을 입에 담는 것
-Living like this every day
+Living like this every day <br>
 매일 이렇게 살아가는 게
 
 Sometimes I feel so sad
