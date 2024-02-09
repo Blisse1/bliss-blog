@@ -82,7 +82,7 @@ living like that <br>
 그렇게 살아가는 것
 
 Ah ah ah ah ah <br>
-아아아 아 아아아 아
+아아아 아 아아아 아<br>
 Spouting hurtful words <br>
 상처 같은 말을 내뱉고
 
