@@ -3,10 +3,10 @@ title: "So life goes on"
 publishDate: "08 February 2024"
 description: "Some lyrics I like"
 tags: ["lyrics"]
-ogImage: "/attention.png"
+ogImage: "/life-goes-on.png"
 coverImage: 
-    src: "./attention.jpg"
-    alt: "NewJeans photo cover"
+    src: "./life-goes-on.png"
+    alt: "life goes on cover"
 ---
 
 ## Canción y reflexión
