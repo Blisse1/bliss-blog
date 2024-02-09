@@ -29,9 +29,9 @@ como yo la interpreto y esta vez fue la excepción.
 
 <!-- <img src="../life-goes-on.png" alt="any alt"> --> 
 
->> 허회경 (Heo Hoy Kyung) - 그렇게 살아가는 것 (So life goes on)
+## 허회경 (Heo Hoy Kyung) - 그렇게 살아가는 것 (So life goes on)
 
-## Lyrics
+>> Lyrics
 
 Spitting out thorn-like words <br>
 가시 같은 말을 내뱉고
