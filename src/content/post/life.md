@@ -1,6 +1,6 @@
 ---
 title: "So life goes on"
-publishDate: "08 February 2023"
+publishDate: "08 February 2024"
 description: "Some lyrics I like"
 tags: ["lyrics"]
 ---
