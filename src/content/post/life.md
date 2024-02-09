@@ -57,7 +57,7 @@ Living as if it's familiar <br>
 익숙한 듯이 살아가는 게
 
 Sometimes I'm so scared <br>
-가끔은 너무 무서워 나
+가끔은 너무 무서워 나 <br>
 In the car on the way back <br>
 돌아오는 차 안에서 그저
 
@@ -68,7 +68,7 @@ Wandering around looking for the answer <br>
 정답을 찾아 헤메이다가
 
 closing your eyes like that <br>
-그렇게 눈을 감는 것
+그렇게 눈을 감는 것 <br>
 falling asleep like that <br>
 그렇게 잠에 드는 것
 
@@ -90,7 +90,7 @@ Wandering around looking for pretty words <br>
 예쁜 말을 찾아 헤매고선
 
 To let out something like a deep sigh <br>
-한숨 같은 것을 깊게 내뱉는 것
+한숨 같은 것을 깊게 내뱉는 것<br>
 Lie down on the bed like you're falling down <br>
 쓰러지듯이 침대에 누워
 
@@ -101,7 +101,7 @@ I keep repeating that everything is okay <br>
 다 괜찮다고 되뇌이다가
 
 falling asleep like that <br>
-그렇게 잠에 드는 것
+그렇게 잠에 드는 것 <br>
 dreaming like that <br>
 그렇게 꿈을 꾸는 것
 
@@ -115,7 +115,7 @@ living like that <br>
 그렇게 살아가는 것
 
 Woo woo woo woo woo <br>
-우우우 우 우우우 우
+우우우 우 우우우 우 <br>
 Let out something like a sigh <br>
 한숨 같은 것을 내뱉고
 
