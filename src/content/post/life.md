@@ -3,10 +3,6 @@ title: "So life goes on"
 publishDate: "08 February 2023"
 description: "Some lyrics I like"
 tags: ["lyrics"]
-ogImage: "/life-goes-on.png"
-coverImage: 
-    src: "./life-goes-on.png"
-    alt: "life goes on cover"
 ---
 
 ## Canción y reflexión
