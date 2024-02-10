@@ -23,11 +23,11 @@ de saber qué quería decir y quedé fascinado con la traducción.
 Muchas veces es complicado encontrar una traducción que se asemeje a la letra
 como yo la interpreto y esta vez fue la excepción. 
 
-También el cover que encontrarán aquí abajo siento que transmite por sí solo.
-
-Da cuenta el paso de una generación a otra, ¿no les parece?
+También el cover de la canción que encontrarán aquí abajo siento que transmite por sí solo.
 
 ![Alt text](https://m.media-amazon.com/images/I/512zAzOG46L._UX250_FMwebp_QL85_.jpg)
+
+Da cuenta el paso de una generación a otra, ¿no les parece?
 
 >> 허회경 (Heo Hoy Kyung) - 그렇게 살아가는 것 (So life goes on)
 
