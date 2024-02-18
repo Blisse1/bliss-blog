@@ -5,7 +5,7 @@ publishDate: "18 February 2024"
 tags: ["100-days-of-code"]
 ---
 
-## Day **50** of #💯-days-of-code 
+## Day **50** of 💯-days-of-code 
 
 Terminé las cuatro actividades acerca de Grid y me parece me quedó más claro ya cuando estuve trabajando en ellas de qué se trataba esa propiedad de template areas. En una tuve que usar ambos, tanto grid como flex para lograr un diseño y me pareció cool. 
 
