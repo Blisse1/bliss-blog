@@ -2,7 +2,7 @@
 title: "IU Feat. HYEIN"
 publishDate: "20 February 2024"
 description: "IU's song featuring HYEIN"
-tags: ["music-insights"]
+tags: ["music-insights", "kpop"]
 ---
 
 ## Shh.. Feat. 혜인(HYEIN)
