@@ -1,6 +1,6 @@
 ---
 title: "IU Feat. HYEIN"
-publishDate: "20 February 2023"
+publishDate: "20 February 2024"
 description: "IU's song featuring HYEIN"
 tags: ["music-insights"]
 ---
