@@ -16,4 +16,4 @@ Hyein tiene una voz increíble y que encaja perfecto para la melodía y la estru
 
 La combinación de la entrada de IU que le da paso a la de HYEIN es magistral. No me lo esperaba para nada.
 
-Desde el segundo 39 y toda la parte cantada de HYEIN _(que empieza desde el minuto 1:04)_ ... es sencillamente otra cosa.
+Desde el segundo 39 y toda la parte cantada de HYEIN _(que empieza desde el minuto 1:04)_ es... sencillamente otra cosa.
