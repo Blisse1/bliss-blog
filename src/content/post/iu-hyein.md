@@ -15,3 +15,5 @@ Hyein tiene una voz increíble y que encaja perfecto para la melodía y la estru
 ¿Qué decir de IU? No decepciona.
 
 La combinación de la entrada de IU que le da paso a la de HYEIN es magistral. No me lo esperaba para nada.
+
+Desde el segundo 34 y toda la parte cantada de HYEIN... es sencillamente otra cosa.
