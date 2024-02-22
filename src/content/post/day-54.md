@@ -17,4 +17,5 @@ La única diferencia es que considero que tengo un buen conocimiento fundamental
 lo que puede estar pasando. Ya no voy a sentir que me pesa tanto si hay cosas nuevas que no entiendo o si necesito
 volver a algún articulo porque no me acuerdo cómo se hace.
 
+
 Esto definitivamente lo vale.
