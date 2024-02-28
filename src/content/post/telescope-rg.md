@@ -1,7 +1,7 @@
 ---
 title: "ignore node_modules within telescope"
 description: "100-days-of-code"
-publishDate: "28 January 2024"
+publishDate: "28 February 2024"
 tags: ["100-days-of-code"]
 ---
 
