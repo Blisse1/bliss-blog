@@ -2,7 +2,7 @@
 title: "Emmet"
 description: "tips"
 publishDate: "29 February 2024"
-tags: ["config-tips"]
+tags: ["config"]
 ---
 
 ## Mason emmet
