@@ -1,6 +1,6 @@
 ---
 title: "Emmet and html"
-description: "tips"
+description: "tips and at least five characters"
 publishDate: "29 February 2024"
 tags: ["config"]
 ---
