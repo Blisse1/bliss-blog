@@ -1,5 +1,5 @@
 ---
-title: "Emmet"
+title: "Emmet and html"
 description: "tips"
 publishDate: "29 February 2024"
 tags: ["config"]
