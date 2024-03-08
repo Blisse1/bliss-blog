@@ -1,5 +1,5 @@
 ---
-title: "TS Project and JS Project"
+title: "TS, JS, and quotes to make me feel less like shit"
 description: "100-days-of-code"
 publishDate: "08 February 2024"
 tags: ["100-days-of-code"]
