@@ -33,3 +33,14 @@ Sin necesidad de hacer cw y luego x.
 Esoy acostumbrado a que cuando quiero borrar una porción de texto uso el “c$”
 pero ahora descubrí que puedo hacer lo mismo con “C”. Damn, queda mucho mejor
 y más rápido porque no tengo que buscar el signo de dolar para hacer lo mismo.
+
+## gU and gu
+guaw para convertir una palabra en minuscula y gUaw para convertirla en mayúscula
+Lo mismo para párrafos. gUap para mayus en parrafos y lo mismo para minus.
+gUU para mayus en la misma linea.
+
+## gcG
+Comenta de una linea hacia abajo
+
+## <C-r>0
+Pega contenido del register
