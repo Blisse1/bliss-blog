@@ -1,6 +1,6 @@
 ---
 title: "Vim Notes"
-publishDate: "11 March 2024"
+publishDate: "13 March 2024"
 description: "Vim notes from the book"
 tags: ["vim-notes"]
 ---
@@ -44,3 +44,12 @@ Comenta de una linea hacia abajo
 
 ## <C-r>0
 Pega contenido del register
+
+## gv
+No sé si este pueda ser de utilidad pero igual por alguna razón lo quiero colocar
+Este me permite reseleccionar una región previa en la que estuve en visual-mode
+
+## Toggling the free end of a selection
+Esta si está re buena. Con la letra o estando en visual-mode y teniendo una
+región de texto seleccionado, puedo cambiar la posición del cursor para modificar
+a voluntad la región seleccionada
