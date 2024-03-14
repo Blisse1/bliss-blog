@@ -53,3 +53,7 @@ Este me permite reseleccionar una región previa en la que estuve en visual-mode
 Esta si está re buena. Con la letra o estando en visual-mode y teniendo una
 región de texto seleccionado, puedo cambiar la posición del cursor para modificar
 a voluntad la región seleccionada
+
+## <C-v> y r
+<C-v> para entrar al visual-block mode y r para reemplazar toda esa columna.
+
