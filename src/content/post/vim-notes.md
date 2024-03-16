@@ -57,3 +57,15 @@ a voluntad la región seleccionada
 ## <C-v> y r
 <C-v> para entrar al visual-block mode y r para reemplazar toda esa columna.
 
+## Algo de historia
+Vim traces its ancestry back to vi, which is where the modal editing paradigm
+was conceived. In turn, vi traces its ancestry back to a line editor called ex,
+which is why we have Ex commands. The DNA of these early Unix text editors
+is preserved in modern Vim. For some line-oriented tasks, Ex commands are
+still the best tool for the job
+
+ed was the original Unix text editor
+
+## Replace
+El comando ex que va así: :%s/palabra/reemplazo es muy util cuando uno quiere
+cambiar una palabra por otra de manera rápida. Ahorra mucho tiempo y me gusta usarlo.
