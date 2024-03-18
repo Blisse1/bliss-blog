@@ -21,5 +21,5 @@ Realmente me parece fascinante entender cómo funcionan bien las cosas. No sabí
 que ya estaba utilizando middleware en mi anterior proyecto. Y entender bien la funcionalidad
 me parece increíble. Me parece obvio que uno se va a topar con muchas cosas que no sabe,
 pero sigo defendiendo que uno las puede abordar mucho mejor si tiene fundamentales solidos.
-Tutorial, proyecto guiado _(preferiblemente del mismo tutorial y de una persona con exp)_ , y docs.
+Tutorial, proyecto guiado _(preferiblemente del mismo tutorial y de una persona con exp)_, y docs.
 O docs, tutorial, proyecto.
