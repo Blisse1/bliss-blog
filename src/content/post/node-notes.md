@@ -1,6 +1,6 @@
 ---
 title: "Node-notes"
-publishDate: "17 March 2023"
+publishDate: "17 March 2024"
 description: "Node notes"
 tags: ["notes"]
 ---
