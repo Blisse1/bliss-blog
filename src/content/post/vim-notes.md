@@ -69,3 +69,8 @@ ed was the original Unix text editor
 ## Replace
 El comando ex que va así: :%s/palabra/reemplazo es muy util cuando uno quiere
 cambiar una palabra por otra de manera rápida. Ahorra mucho tiempo y me gusta usarlo.
+
+## va{ da" // vi{ di" // ds"
+Importante y muy útil el va{ para seleccionar todo dentro de los paréntesis incluidos
+los paréntesis. Y el da" para eliminar todo lo que está entre comillas incluidas las comillas.
+Vi{ solo para el contenido sin comillas y el ds" para eliminar solo las comillas.
