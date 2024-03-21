@@ -10,5 +10,5 @@ tags: ["curl"]
 curl -H "Content-Type: application/json" \
 -d '{"data": "info"}' \
 -X POST \
-http://localhost:3500
+http://localhost:<port>
 
