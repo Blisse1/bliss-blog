@@ -74,3 +74,15 @@ cambiar una palabra por otra de manera rápida. Ahorra mucho tiempo y me gusta u
 Importante y muy útil el va{ para seleccionar todo dentro de los paréntesis incluidos
 los paréntesis. Y el da" para eliminar todo lo que está entre comillas incluidas las comillas.
 Vi{ solo para el contenido sin comillas y el ds" para eliminar solo las comillas.
+
+## :'<,'>normal .
+Para la repetición de la ultima acción en modo visual.
+“For each line in the visual selection, execute the Normal mode . command.”
+
+## :!node %
+No sé si alguna vez voy a necesitar esto pero pues con este ex-command puedo
+ejecutar programas de la shell sin salir de Vim. Tipo para ver rápido
+qué ejecuta puedo darle a ese cmd sin necesidad de abrir una terminal aparte
+
+## :ter
+Lo mismo para este. Abre una terminal en el mismo buffer.
