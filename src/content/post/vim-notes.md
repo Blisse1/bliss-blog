@@ -1,6 +1,6 @@
 ---
 title: "Vim Notes"
-publishDate: "13 March 2024"
+publishDate: "21 March 2024"
 description: "Vim notes from the book"
 tags: ["vim-notes"]
 ---
