@@ -86,3 +86,16 @@ qué ejecuta puedo darle a ese cmd sin necesidad de abrir una terminal aparte
 
 ## :ter
 Lo mismo para este. Abre una terminal en el mismo buffer.
+
+## - key in netrw
+Este es para subir un directorio
+
+## ge
+To move backward to end of previous word
+
+## words and WORDS
+Periods and apostrophes count as words we can omit them if we move
+WORD-wise instead(W)
+For instance we have: "you're". cw only deletes the you part and
+cW deletes the whole thing.
+
