@@ -99,3 +99,16 @@ WORD-wise instead(W)
 For instance we have: "you're". cw only deletes the you part and
 cW deletes the whole thing.
 
+## t and T
+Para moverme hasta antes del caracter que especifico y lo mismo al revés.
+
+## v and /
+Este va a ser uno de los que más me va a ayudar porque puedo seleccionar siguiente
+en la misma linea o diferentes lineas porciones de texto sin estar entrando al visual mode
+y matando el teclado a punta de w's para seleccionar solo una porción.
+Si en el párrafo hay palabras repetidas, con la n uno itera hacia la siguiente
+o devolverse con N. Insano.
+
+## d{motion}
+Eliminar de aquí hasta esta palabra, sin incluir la palabra pero incluyendo
+desde aquí. Esta está insana.
