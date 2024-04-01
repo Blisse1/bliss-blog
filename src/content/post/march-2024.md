@@ -17,14 +17,14 @@ que es la que más destaca y hace suyo totalmente el tema.
 
 Aquí dejo un fragmento de "Shh..." cantado por HYEIN totalmente en vivo en el concierto de IU.
 
-[![Fragmento de HYEIN]](https://youtube.com/shorts/RPBS6u4a9WU?si=9_GBZagg6UXjm2u5)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8ZV21LApGK4?si=Q8l62__lLNJ3yrSe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## ILLIT
 También este mes debutó un grupo de K-POP con un sonido bastante soñador llamado ILLIT y que contrasta muy bien con el sonido que yo, en lo personal, ando
 buscando últimamente en la música. El mini-album que sacaron es sencillo y fácil de escuchar. Voy a estar pendiente de sus actividades!
 De ellas destaco todo su mini-album.
 
-[![SUPER REAL ME]](https://www.youtube.com/watch?v=X1xQhbffaN8&list=OLAK5uy_m2_XrPyDnxIVRZBXUc6Vp8KbTPVwebzeI)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hyEkyIDs0_8?si=mV3nsiQTLzmPuibN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## YOUNG POSSE
 Este fue un grato y a la vez algo raro descubrimiento de este mes. El sonido de este grupo me parece particular y bastante bien llevado
