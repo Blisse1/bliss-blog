@@ -11,8 +11,8 @@ Bueno, este mes descubrí el nuevo tema de (G)I-DLE llamado Fate y me gustó bas
 A pesar de que el tema que estoy por mencionar se subió el mes pasado, quiero también mencionarlo y decir al mismo tiempo
 que llevaba tiempo esperandolo desde que supe que HYEIN iba a estar con IU en una canción. Y es que se trata de "Shh...",
 un tema particularmente extraordinario, no solo porque sea un tema de IU _(que ya de por sí es magnífico)_ si no también
-por la intervención brillante de HYEIN. En definitiva, me atrevería a decir que la voz de HYEIN es la que más disfruto escuchar
-actualmente. Por mencionar otro ejemplo de apariciones de HYEIN que me encantan, tenemos Get Up! que en este caso es de New Jeans pero que lo menciono especialmente por HYEIN, que me parece
+por la intervención brillante de HYEIN. En definitiva, me atrevería a decir que su voz de es la que más disfruto escuchar
+actualmente. Por mencionar otro ejemplo de sus apariciones que me encantan, tenemos Get Up! que en este caso es de New Jeans pero que lo menciono especialmente por HYEIN, que me parece
 que es la que más destaca y hace suyo totalmente el tema.
 
 Aquí dejo un fragmento de "Shh..." cantado por HYEIN totalmente en vivo en el concierto de IU.
