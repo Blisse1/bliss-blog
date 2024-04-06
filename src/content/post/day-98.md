@@ -1,7 +1,7 @@
 ---
 title: "Async JS"
 description: "100-days-of-code"
-publishDate: "06 March 2024"
+publishDate: "06 April 2024"
 tags: ["100-days-of-code"]
 ---
 
