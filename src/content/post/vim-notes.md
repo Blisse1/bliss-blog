@@ -112,3 +112,6 @@ o devolverse con N. Insano.
 ## d{motion}
 Eliminar de aquí hasta esta palabra, sin incluir la palabra pero incluyendo
 desde aquí. Esta está insana.
+
+## ve
+Seleccionar hasta el final de una palabra. Más conveniente que vw
