@@ -115,3 +115,7 @@ desde aquí. Esta está insana.
 
 ## ve
 Seleccionar hasta el final de una palabra. Más conveniente que vw
+
+## ?
+Si trato de escanear una palabra, puedo iniciar con ? para que solo me busque de donde estoy
+hacia atrás.
