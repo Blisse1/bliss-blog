@@ -17,4 +17,4 @@ así como se haría en una aplicación real.
 
 Ya empiezo la cuenta regresiva para terminar los artículos de JS del MDN.
 Oficialmente me quedan 4, puesto que hoy ya terminé uno. Esta semana es mi semana
-para terminarlos y meterme con Python.
+para terminarlos y empezar a meterme con Python.
