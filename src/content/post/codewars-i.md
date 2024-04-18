@@ -109,5 +109,5 @@ en un loop que lo repitiera para cada última palabra hasta que la array de la p
 quedara vacía. Bueno, eso hasta que me di cuenta un método que pasé por alto llamado reverse()
 
 ## Excalidraw graph
-![Excalidraw graph](reversed-strings.png)
+![Excalidraw Logo](./reversed-strings.png)
 
