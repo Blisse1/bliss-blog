@@ -1,5 +1,5 @@
 ---
-title: "Codewars - Kata VIII (1)"
+title: "Codewars - Kata VIII (Day 1)"
 description: "Codewars practice"
 publishDate: "18 April 2024"
 tags: ["codewars-problems"]
