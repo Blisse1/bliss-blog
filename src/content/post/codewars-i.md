@@ -106,4 +106,4 @@ En este ejercicio llegué a un punto en donde solo quería conseguir que la últ
 al menos poder meterla en una array y que al mismo tiempo se eliminara de la array de la palabra
 ordenada. Y ya cuando lo conseguí, solo fue cuestión de pensar que necesitaba encerrar eso
 en un loop que lo repitiera para cada última palabra hasta que la array de la palabra original
-quedara vacía. Bueno, eso hasta que me di cuenta un método que pasé por alto llamado reversed()
+quedara vacía. Bueno, eso hasta que me di cuenta un método que pasé por alto llamado reverse()
