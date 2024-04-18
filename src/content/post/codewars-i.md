@@ -107,3 +107,7 @@ al menos poder meterla en una array y que al mismo tiempo se eliminara de la arr
 ordenada. Y ya cuando lo conseguí, solo fue cuestión de pensar que necesitaba encerrar eso
 en un loop que lo repitiera para cada última palabra hasta que la array de la palabra original
 quedara vacía. Bueno, eso hasta que me di cuenta un método que pasé por alto llamado reverse()
+
+## Excalidraw graph
+![Excalidraw graph](reversed-strings.png)
+
