@@ -15,6 +15,6 @@ function numberToString(num) {
 }
 ```
 ## My solution
-(My solution for the number to string problem)[https://github.com/Blisse1/codewars/blob/main/kata-VIII/number-to-string.js]
+[My solution for the number to string problem](https://github.com/Blisse1/codewars/blob/main/kata-VIII/number-to-string.js)
 ## Insight
 Sin comentarios.

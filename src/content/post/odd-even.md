@@ -15,6 +15,6 @@ function evenOrOdd(number) {
 }
 ```
 ## My solution
-(My solution for the Odd or Even problem)[https://github.com/Blisse1/codewars/blob/main/kata-VIII/odd-even.js]
+[My solution for the Odd or Even problem](https://github.com/Blisse1/codewars/blob/main/kata-VIII/odd-even.js)
 ## Insight
 Sin comentarios.

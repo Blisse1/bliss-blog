@@ -15,6 +15,6 @@ function multiply(a, b){
 }
 ```
 ## My solution
-(My solution for the multiply problem)[https://github.com/Blisse1/codewars/blob/main/kata-VIII/multiply.js]
+[My solution for the multiply problem](https://github.com/Blisse1/codewars/blob/main/kata-VIII/multiply.js)
 ## Insight
 Sin comentarios.

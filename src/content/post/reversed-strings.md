@@ -14,7 +14,7 @@ Complete the solution so that it reverses the string passed into it.
 'word'   =>  'drow'
 ```
 ## My solution
-(First solution for the reversed string problem)[https://github.com/Blisse1/codewars/blob/main/kata-VIII/reversed-strings.js]
+[First solution for the reversed string problem](https://github.com/Blisse1/codewars/blob/main/kata-VIII/reversed-strings.js)
 ## Other people's solutions
 Bueno, nada como proponer una solución super verbosa y que la solución sea de una línea.
 Sin embargo, no me siento para nada mal. Lo hice presionándome como si no existiera un método para eso.
