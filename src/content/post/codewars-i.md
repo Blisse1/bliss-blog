@@ -1,11 +1,11 @@
 ---
-title: "Codewars - Kata VIII (1) test"
-description: "Codewars practice test"
+title: "Codewars - Kata VIII (1)"
+description: "Codewars practice"
 publishDate: "18 April 2024"
 tags: ["codewars-problems"]
 ---
 
-## Problem I (Multiply)
+# Problem I (Multiply)
 ## Description
 This code does not execute properly. Try to figure out why.
 
@@ -23,3 +23,5 @@ function multiply(a, b){
 ```
 ## Insight
 Bueno, este es un ejemplo para ver qué tal funciona el formateo y qué tal se ve.
+
+# Problem II (Odd or Even)
