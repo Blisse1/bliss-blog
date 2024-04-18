@@ -1,7 +1,7 @@
 ---
 title: "Angular Routing and JS 1 y 2"
 description: "js and angular learning"
-publishDate: "10 April 2024"
+publishDate: "16 April 2024"
 tags: ["js-learning", "angular-learning"]
 ---
 
