@@ -16,5 +16,10 @@ function multiply(a, b){
 ```
 ## My solution
 [My solution for the multiply problem](https://github.com/Blisse1/codewars/blob/main/kata-VIII/multiply.js)
+```js
+function multiply(a, b){
+  return a * b;
+}
+```
 ## Insight
 Sin comentarios.

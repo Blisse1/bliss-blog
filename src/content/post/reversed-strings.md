@@ -15,6 +15,26 @@ Complete the solution so that it reverses the string passed into it.
 ```
 ## My solution
 [First solution for the reversed string problem](https://github.com/Blisse1/codewars/blob/main/kata-VIII/reversed-strings.js)
+```js
+function solution(str){
+    let orderedStringArr = [];
+    let reversedStringArr = [];
+    for(const string of str){
+        orderedStringArr.push(string);
+    }
+    while(orderedStringArr.length !== 0){
+        for(let string of orderedStringArr){
+            if(string === orderedStringArr[orderedStringArr.length - 1]){
+                let deletedString = orderedStringArr.pop();
+                reversedStringArr.push(deletedString);
+            }else{
+                continue;
+            }
+        }
+    }
+    return reversedStringArr.join("")
+}
+```
 ## Other people's solutions
 Bueno, nada como proponer una solución super verbosa y que la solución sea de una línea.
 Sin embargo, no me siento para nada mal. Lo hice presionándome como si no existiera un método para eso.

@@ -16,5 +16,10 @@ function evenOrOdd(number) {
 ```
 ## My solution
 [My solution for the Odd or Even problem](https://github.com/Blisse1/codewars/blob/main/kata-VIII/odd-even.js)
+```js
+function numberToString(num) {
+  return num.toString();
+}
+```
 ## Insight
 Sin comentarios.
