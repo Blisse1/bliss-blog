@@ -9,7 +9,6 @@ tags: ["codewars-problems"]
 ## Description
 It's pretty straightforward. Your goal is to create a function that removes the first and last characters of a string. You're given one parameter, the original string. You don't have to worry about strings with less than two characters.
 ## Solution
-[First solution for the reversed string problem](https://github.com/Blisse1/codewars/blob/main/kata-VIII/reversed-strings.js)
 ```js
 function removeChar(str){
   return str.slice(1, str.length - 1);
