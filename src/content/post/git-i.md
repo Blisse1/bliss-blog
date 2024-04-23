@@ -49,3 +49,23 @@ The only real difference is that git mv is one command instead of three
 One of the more helpful options is -p or --patch, which shows the difference (the patch output)
 introduced in each commit. You can also limit the number of log entries displayed, such as using -2
 to show only the last two entries.
+Another really useful option is --pretty. This option changes the log output to formats other than
+the default. A few prebuilt option values are available for you to use. The oneline value for this
+option prints each commit on a single line, which is useful if you’re looking at a lot of commits. In
+addition, the short, full, and fuller values show the output in roughly the same format but with
+less or more information, respectively
+git log --pretty=format:"%h - %an, %ar : %s"
+This option adds a nice little ASCII graph showing your branch and merge history:
+git log --pretty=format:"%h %s" --graph
+However, the time-limiting options such as --since and --until are very useful. For example, this
+command gets the list of commits made in the last two weeks
+git log --since=2.weeks
+For instance, if you wanted to find the last commit that added or removed a reference to a
+specific function, you could call: git log -S function_name
+The last really useful option to pass to git log as a filter is a path. If you specify a directory or file
+name, you can limit the log output to commits that introduced a change to those files
+git log -- path/to/file
+## About undoing things (ammend)
+One of the common undos takes place when you commit too early and possibly forget to add some
+files, or you mess up your commit message. If you want to redo that commit, make the additional
+changes you forgot, stage them, and commit again using the --amend option: $ git commit --amend
