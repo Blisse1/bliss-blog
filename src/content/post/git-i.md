@@ -69,3 +69,14 @@ git log -- path/to/file
 One of the common undos takes place when you commit too early and possibly forget to add some
 files, or you mess up your commit message. If you want to redo that commit, make the additional
 changes you forgot, stage them, and commit again using the --amend option: $ git commit --amend
+It’s important to understand that when you’re amending your last commit, you’re
+not so much fixing it as replacing it entirely with a new, improved commit that
+pushes the old commit out of the way and puts the new commit in its place.
+Effectively, it’s as if the previous commit never happened, and it won’t show up in
+your repository history.
+The obvious value to amending commits is to make minor improvements to your
+last commit, without cluttering your repository history with commit messages of
+the form, “Oops, forgot to add a file” or “Darn, fixing a typo in last commit”.
+Only amend commits that are still local and have not been pushed somewhere.
+Amending previously pushed commits and force pushing the branch will cause
+problems for your collaborators
