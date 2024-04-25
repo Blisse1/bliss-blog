@@ -80,3 +80,23 @@ the form, “Oops, forgot to add a file” or “Darn, fixing a typo in last com
 Only amend commits that are still local and have not been pushed somewhere.
 Amending previously pushed commits and force pushing the branch will cause
 problems for your collaborators
+## About Unmodifying a modified file
+file? How can
+you easily unmodify it — revert it back to what it looked like when you last committed (or initially
+cloned, or however you got it into your working directory)?
+Using git restore.
+Remember, anything that is committed in Git can almost always be recovered. Even commits that
+were on branches that were deleted or commits that were overwritten with an --amend commit can
+be recovered (see Data Recovery for data recovery). However, anything you lose that was never
+committed is likely never to be seen again.
+It’s important to understand that git restore <file> is a dangerous command
+Don’t ever use this command unless you
+absolutely know that you don’t want those unsaved local changes
+## About git merge
+La rama main debe tener como minimo 2 commits para poder realizar un merge
+con otra rama y que pueda generar un conflicto que obligue a decidir
+qué contenido quiere mantener de la rama main o de la rama que se quiere mergear
+De lo contrario, si solo tiene 1 commit la rama main y se trata de mergear
+con otra rama, main estará apuntando al contenido del commit de la rama que se quiso mergear
+Uno se puede devolver a que main apunte al commit inicial usando un git reset --hard
+
