@@ -1,7 +1,7 @@
 ---
 title: "Git notes from ProGit"
 description: "Git learning"
-publishDate: "22 April 2024"
+publishDate: "29 April 2024"
 tags: ["git-learning"]
 ---
 
@@ -99,4 +99,56 @@ qué contenido quiere mantener de la rama main o de la rama que se quiere mergea
 De lo contrario, si solo tiene 1 commit la rama main y se trata de mergear
 con otra rama, main estará apuntando al contenido del commit de la rama que se quiso mergear
 Uno se puede devolver a que main apunte al commit inicial usando un git reset --hard
-
+## About git branches
+How does Git know what branch you’re currently on? It keeps a special pointer called HEAD.
+The git branch command only created a new branch — it didn’t switch to that branch
+You can easily see this by running a simple git log command that shows you where the branch
+pointers are pointing. This option is called --decorate. git log --oneline --decorate
+To switch to an existing branch, you run the git checkout command. This moves HEAD to point to the testing branch.
+## About switching branches
+Switching branches changes files in your working directory
+It’s important to note that when you switch branches in Git, files in your working
+directory will change. If you switch to an older branch, your working directory
+will be reverted to look like it did the last time you committed on that branch. If Git
+cannot do it cleanly, it will not let you switch at all.
+## About creating branches
+From Git version 2.23 onwards you can use git switch instead of git checkout to:
+• Switch to an existing branch: git switch testing-branch.
+• Create a new branch and switch to it: git switch -c new-branch. The -c flag
+stands for create, you can also use the full flag: --create.
+• Return to your previously checked out branch: git switch -
+## About git log 2
+git log doesn’t show all the branches all the time
+If you were to run git log right now, you might wonder where the "testing"
+branch you just created went, as it would not appear in the output.
+The branch hasn’t disappeared; Git just doesn’t know that you’re interested in that
+branch and it is trying to show you what it thinks you’re interested in. In other
+words, by default, git log will only show commit history below the branch you’ve
+checked out.
+To show commit history for the desired branch you have to explicitly specify it: git
+log testing. To show all of the branches, add --all to your git log command.
+## About git branching and merging
+It’s best to have a clean working state when you switch branches.
+There are ways to get around this (namely, stashing and commit amending) that we’ll cover later on, in Stashing and Cleaning.
+To phrase that another way, when you try to merge one commit with a commit
+that can be reached by following the first commit’s history, Git simplifies things by moving the
+pointer forward because there is no divergent work to merge together — this is called a “fastforward.”
+It’s worth noting here that the work you did in your hotfix branch is not contained in the files in
+your iss53 branch. If you need to pull it in, you can merge your master branch into your iss53
+branch by running git merge master, or you can wait to integrate those changes until you decide to
+pull the iss53 branch back into master later.
+This looks a bit different than the hotfix merge you did earlier. In this case, your development
+history has diverged from some older point. Because the commit on the branch you’re on isn’t a
+direct ancestor of the branch you’re merging in, Git has to do some work. In this case, Git does a
+simple three-way merge, using the two snapshots pointed to by the branch tips and the common
+ancestor of the two.
+Instead of just moving the branch pointer forward, Git creates a new snapshot that results from this
+three-way merge and automatically creates a new commit that points to it. This is referred to as a
+merge commit, and is special in that it has more than one parent.
+## About basic merge conflicts
+If you changed the same part of the same file
+differently in the two branches you’re merging, Git won’t be able to merge them cleanly
+Git hasn’t automatically created a new merge commit. It has paused the process while you resolve
+the conflict. If you want to see which files are unmerged at any point after a merge conflict, you can
+run git status
+## Branch management
