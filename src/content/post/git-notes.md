@@ -152,3 +152,51 @@ Git hasn’t automatically created a new merge commit. It has paused the process
 the conflict. If you want to see which files are unmerged at any point after a merge conflict, you can
 run git status
 ## Branch management
+Do not rename branches that are still in use by other collaborators. Do not rename
+a branch like master/main/mainline without having read the section Changing the
+master branch name.
+## Branching Workflows
+Many Git developers have a workflow that embraces this approach, such as having only code that is
+entirely stable in their master branch — possibly only code that has been or will be released. They
+have another parallel branch named develop or next that they work from or use to test stability — it
+isn’t necessarily always stable, but whenever it gets to a stable state, it can be merged into master.
+It’s used to pull in topic branches (short-lived branches, like your earlier iss53 branch) when
+they’re ready, to make sure they pass all the tests and don’t introduce bugs.
+## Remote Branches
+
+## Using HTTPS
+Don’t type your password every time
+If you’re using an HTTPS URL to push over, the Git server will ask you for your
+username and password for authentication. By default it will prompt you on the
+terminal for this information so the server can tell if you’re allowed to push.
+If you don’t want to type it every single time you push, you can set up a “credential
+cache”. The simplest is just to keep it in memory for a few minutes, which you can
+easily set up by running git config --global credential.helper cache.
+## Tracking Branches
+Checking out a local branch from a remote-tracking branch automatically creates what is called a
+92
+“tracking branch” (and the branch it tracks is called an “upstream branch”). Tracking branches are
+local branches that have a direct relationship to a remote branch. If you’re on a tracking branch
+and type git pull, Git automatically knows which server to fetch from and which branch to merge
+in.
+If the branch name you’re trying to checkout (a) doesn’t exist and (b) exactly matches a name on only one remote, Git will
+create a tracking branch for you:
+```bash
+$ git checkout serverfix
+Branch serverfix set up to track remote branch serverfix from origin.
+Switched to a new branch 'serverfix'
+```
+If you already have a local branch and want to set it to a remote branch you just pulled down, or
+want to change the upstream branch you’re tracking, you can use the -u or --set-upstream-to
+option to git branch to explicitly set it at any time
+```bash
+git branch -u origin/serverfix
+Branch serverfix set up to track remote branch serverfix from origin.
+```
+Generally it’s better to simply use the fetch and merge commands explicitly as the magic of git pull
+can often be confusing.
+## Rebasing
+In Git, there are two main ways to integrate changes from one branch into another: the merge and
+the rebase.
+With the rebase command, you can take all the
+changes that were committed on one branch and replay them on a different branch.
