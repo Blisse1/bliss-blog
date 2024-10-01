@@ -17,3 +17,7 @@ corepack prepare yarn@stable --activate
 asdf reshim nodejs
 yarn --version
 ```
+
+Referencias:
+https://github.com/asdf-vm/asdf-nodejs/issues/342
+https://github.com/asdf-vm/asdf-nodejs/pull/349/files
